@@ -1,0 +1,8 @@
+D:\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe.config
+D:\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe
+D:\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.pdb
+D:\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.AssemblyReference.cache
+D:\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.SuggestedBindingRedirects.cache
+D:\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.CoreCompileInputs.cache
+D:\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.exe
+D:\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.pdb
